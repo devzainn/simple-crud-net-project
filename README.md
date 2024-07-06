@@ -13,3 +13,6 @@ This project is a simple CRUD application for category data using .NET. It allow
   
   **5. DELETE VIEW - CATEGORY**
        ![DELETE CATEGORY](https://github.com/devzainn/NetProject/assets/174663275/e9b92997-894d-4fc7-b0d8-1e0c747ead57)
+
+  **5. TOASTR NOTIFICATION VIEW - EX : CREATE CATEGORY**
+       ![Toastr Notification](https://github.com/devzainn/NetProject/assets/174663275/863c3d39-25a4-4192-a1ee-d4b44fae9df7)
