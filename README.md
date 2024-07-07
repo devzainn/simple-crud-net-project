@@ -1,4 +1,4 @@
-**[BULKY WEB PROJECT]** 
+**[BULKYWEB AND BULKYWEBRAZOR PROJECT]** 
 This project is a simple CRUD application for category data using .NET. It allows users to create, read, update, and delete categories. Built with ASP.NET Core, Entity Framework Core, and Razor Pages, it demonstrates basic CRUD operations and serves as an excellent starting point for .NET developers.
 
   **1. LIST VIEW - CATEGORY**
